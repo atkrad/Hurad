@@ -4,7 +4,7 @@
     "keywords": ["cakephp", "blog"],
     "version": "0.1.0-alpha.7",
     "homepage": "http://hurad.org",
-    "license": "MIT",
+    "license": "GPL",
     "authors": [
         {
             "name": "Hurad Community",
